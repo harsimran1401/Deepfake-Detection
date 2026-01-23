@@ -3,7 +3,7 @@
 ## Deepfake-Detection-Plugin-Chrome Extension
 This repository houses the code for building your own deepfake detection plugin (chrome extension) MVP developed by Samarth Kaushik and Harsimran Kaur
 
-**Deepfake Guard** is a real-time browser extension designed to detect AI-generated faces in video streams (YouTube, etc.) using a multi-model ensemble approach.
+**VeritasLens** is a real-time browser extension designed to detect AI-generated faces in video streams (YouTube, etc.) using a multi-model ensemble approach.
 
 ## 🚀 Key Features
 - **Real-Time Analysis**: Captures frames directly from the active browser tab.

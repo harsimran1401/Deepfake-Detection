@@ -1,5 +1,5 @@
 ## Deepfake-Detection-Plugin-Chrome Extension
-This repository houses the code for building your own deepfake detection plugin (chrome extension) MVP developed by Bashaar Naik on 9th January, 2025!
+This repository houses the code for building your own deepfake detection plugin (chrome extension) MVP developed by Samarth Kaushik and Harsimran Kaur
 
 **Deepfake Guard** is a real-time browser extension designed to detect AI-generated faces in video streams (YouTube, etc.) using a multi-model ensemble approach.
 
@@ -8,14 +8,6 @@ This repository houses the code for building your own deepfake detection plugin 
 - **Ensemble AI Core**: Combines 4 distinct detection algorithms (CNN, ViT, CLIP, CV).
 - **Transparent Breakdown**: Displays individual confidence scores for every model in a neat table.
 - **Visual Dashboard**: Color-coded "Real" vs "Fake" badges with confidence percentages.
-
-**Demonstration**
-
-
-
-![Picture2](https://github.com/user-attachments/assets/69e1bf88-c9c8-460e-aaa3-735ea0f05f6e)
-![Picture1](https://github.com/user-attachments/assets/4d8daa2f-9cb9-4c27-b511-ca61af80fdf9)
-
 
 ## 📦 Installation
 **1. Backend Setup (The Brain)**
